@@ -1,8 +1,8 @@
 networkx==1.8
 wsgiref==0.1.2
+numpy
 tornado
 pyzmq
 jinja2
-numpy
 matplotlib
 ipython
